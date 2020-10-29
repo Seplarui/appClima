@@ -3,4 +3,8 @@
     <color name="colorPrimary">#6200EE</color>
     <color name="colorPrimaryDark">#3700B3</color>
     <color name="colorAccent">#03DAC5</color>
+
+    <color name="color_grados">#ffffff</color>
+    <color name="color_ciudad">#eeeeff</color>
+    <color name="color_status">#eeeeee</color>
 </resources>

@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">AppClima</string>
+    <string name="texto_grados">23º</string>
+    <string name="texto_ciudad">Ciudad del Cabo</string>
+    <string name="texto_estatus">Nublado</string>
 </resources>
